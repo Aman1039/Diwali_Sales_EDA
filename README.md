@@ -30,8 +30,14 @@ This dataset is valuable for:
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Jupyter Notebook** for data analysis and visualization  
 
+### **Project Files 📂**  
+This repository includes:  
+📌 **Jupyter Notebook (`Diwali_Sales_Analysis.ipynb`)** – Contains data cleaning, visualization, and analysis of the Diwali sales dataset.  
+📌 **Dataset (`Diwali_Sales_Data.csv`)** – The dataset used for analysis. 
+
 ## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Aman1039/Diwali_Sales_EDA
+1. Download the Dataset and Notebook.
+2. Open in your Jupyter Notebook.
+3. Start Your Analysis.
+
 
